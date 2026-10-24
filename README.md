@@ -1,4 +1,4 @@
-# AI Portfolio Analyzer — ML-Based Dynamic Equity Allocation
+# Systematic AAPL Allocation Backtest  — ML-Based Dynamic Equity Allocation
 
 ## Overview
 
